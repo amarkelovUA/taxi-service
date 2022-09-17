@@ -11,7 +11,7 @@ And to view the current state of these connections.
 + create, update and remove all models
 + display list off all cars, drivers, manufacturers
 
-### :hummer: TECHNOLOGIES AND FRAMEWORKS
+### :hammer: TECHNOLOGIES AND FRAMEWORKS
 + Java WEB (web servlets)
 + JDBC
 + MySQL

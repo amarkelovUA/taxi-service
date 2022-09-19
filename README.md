@@ -41,3 +41,5 @@ The project has an N-Tier Architecture.
 6. Add Tomcat server to configuration
 7. Run project
 
+[This app is deployed on Heroku.] (https://mighty-beyond-04392.herokuapp.com/)
+(uses www.remotemysql.com)

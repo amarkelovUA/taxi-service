@@ -5,19 +5,23 @@
     font-size: 40px;
     text-align: center;
     border-collapse: collapse;
+    border: none;
+    border-radius: 15px;
     background: #FEF4AB;
-    margin: auto;
+    margin: 25px auto;
+    box-shadow: 0 0 10px rebeccapurple;
 }
 .table_dark th {
     color: #7C5FAB;
-    border-bottom: 1px solid #98E2CA;
+    border: none;
+    border-bottom: 1px solid #AAF;
     padding: 12px 17px;
     font-size: 14px;
 }
 .table_dark td {
     color: #7C5FAB;
-    border-bottom: 1px solid #98E2CA;
-    border-right: 1px solid #98E2CA;
+    border-bottom: 1px solid #AAF;
+    border-right: 1px solid #AAF;
     padding: 7px 17px;
     font-size: 14px;
 }
@@ -28,5 +32,5 @@
     border-right: none;
 }
 .table_dark tr:hover td {
-    text-decoration: underline;
+    background-color: #DDF;
 }

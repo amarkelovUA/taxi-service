@@ -6,6 +6,7 @@ import taxi.lib.Inject;
 import taxi.lib.Service;
 import taxi.model.Car;
 import taxi.model.Driver;
+import taxi.service.CarService;
 
 @Service
 public class CarServiceImpl implements CarService {
